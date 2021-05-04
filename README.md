@@ -69,4 +69,4 @@ OBS.: O filtro serve para todos os campos
 
 # Documentação Postman
 
-Segue o link da documentação do Postman. (Clique aqui)[https://documenter.getpostman.com/view/2613386/TzRNFqHR]
+Segue o link da documentação do Postman. [Clique aqui](https://documenter.getpostman.com/view/2613386/TzRNFqHR)
