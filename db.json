@@ -1,16 +1,3 @@
 {
-  "pacientes": [
-    {
-      "nome": "Luis Eduardo",
-      "createdAt": 1620138528505,
-      "id": 1
-    },
-    {
-      "nome": "Luis Eduardo",
-      "email": "ads.luis.sobrinho@gmail.com",
-      "createdAt": 1620139269134,
-      "updateddAt": 1620139269134,
-      "id": 2
-    }
-  ]
+  "pacientes": []
 }
