@@ -28,6 +28,6 @@ router.render = (req, res) => {
 server.use(middlewares);
 server.use('/api', router);
 
-server.listen(80, () => {
+server.listen(443, () => {
     console.log('JSON Server is running');
 });
