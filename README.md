@@ -32,7 +32,7 @@ DELETE /pacientes/1
 Para filtros:
 
 ```
-GET /pacientes?cns=800888808880808
+GET /pacientes?cns=898002940850595
 ```
 
 OBS.: O filtro serve para todos os campos
