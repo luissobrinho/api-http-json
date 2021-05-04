@@ -6,6 +6,7 @@ Clone ou baixe esse projeto:
 
 ``` shell
 git clone https://github.com/luissobrinho/api-http-json.git
+cd api-http-json/
 ```
 
 
