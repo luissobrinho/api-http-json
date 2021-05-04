@@ -66,3 +66,7 @@ OBS.: O filtro serve para todos os campos
     ]
 }
 ```
+
+# Documentação Postman
+
+segue o link da documentação do Postman. (Clique aqui)[https://documenter.getpostman.com/view/2613386/TzRNFqHR]

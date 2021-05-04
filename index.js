@@ -8,6 +8,7 @@ server.use((req, res, next) => {
     if (['POST'].includes(req.method)) {
         req.body.createdAt = Date.now();
         req.body.updateddAt = Date.now();
+        req.body.status = true;
     } else if (['PUT'].includes(req.method)) {
         req.body.updateddAt = Date.now();
     }
